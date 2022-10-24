@@ -1,0 +1,42 @@
+body {
+  color:black;
+  text-align: center;
+  background-color: #011F3F;
+}
+
+h1{
+  color:white;
+}
+
+table{
+  border-collapse: collapse;
+  border-radius: 28%;
+  background-color: #FEF2BF;
+}
+
+div[type=button]{
+  font-weight:700;
+  font-size: 1.5rem;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.mybtn-lg {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 100%;
+}
+
+.mybtn-sm {
+  margin: 1px;
+  display: inline-block;
+  height: 75px;
+  width: 73px;
+  border: 10px solid black;
+  border-radius: 100%;
+}
